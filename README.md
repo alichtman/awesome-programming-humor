@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A collection of awesome software, libraries, documents, books, resources and cools stuff that have some element of humor.
+A collection of awesome software, documents and other cool stuff that have some element of humor.
 
 Thanks to all (current and future) contributors, you're awesome and this wouldn't be possible without you!
 
