@@ -17,7 +17,6 @@ The goal is to build a categorized, community-driven collection of high-quality 
 + Satire
 
 
-
 ## Code
 
 * [exceptions](https://github.com/kevin-cantwell/exceptions) - Exceptions for Go!
