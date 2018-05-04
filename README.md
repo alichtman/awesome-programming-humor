@@ -12,6 +12,7 @@ The goal is to build a categorized, community-driven collection of high-quality 
 
 + [Funny GitHub Projects](#funny-github-projects)
 + [Subreddits](#subreddits)
++ [Websites](#websites)
 
 ## Funny GitHub Projects
 
@@ -20,8 +21,10 @@ The goal is to build a categorized, community-driven collection of high-quality 
 * [git-self-blame](https://github.com/JacobEvelyn/git-self-blame) - Simple git plugin that lets you take the blame for code you didn't write.
 * [github-stupidity](https://github.com/james9909/github-stupidity) - Analyze the stupidity of GitHub repositories.
 * [i-made-this](https://github.com/alichtman/i-made-this) - Have you ever wanted to develop a project, but do like, none of the work? Save time with this tool!
+* [jankyscroll](https://github.com/benzweig/jankyscroll) - A Javascript scrolling plugin that doesn't need to exist.
 * [nano](https://github.com/nilsding/nano) - Mock users for trying to edit with nano.
 * [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+* [redirect-blame](https://github.com/will/redirect_blame) - It's your fault my site is down.
 * [useless](https://github.com/BlitzKraft/useless) - A collection of self-killing scripts in various languages.
 * [yolo](https://github.com/Airblader/yolo) - Script to kill a random process on your machine.
 
@@ -47,3 +50,7 @@ The goal is to build a categorized, community-driven collection of high-quality 
 * [r/SysadminHumor](https://www.reddit.com/r/Sysadminhumor/) - A sub for sysadmins with a sense of humor.
 * [r/TechHumor](https://www.reddit.com/r/techhumor/)
 * [r/itsaUNIXSystem](https://www.reddit.com/r/itsaunixsystem/) - A subreddit for every over the top, satirical, embarrassing, or downright, flat-out incorrect usage of Technology found in Movies, TV Shows, and Video Games!
+
+## Websites
+
+* [aiweirdness](http://aiweirdness.com/) - Unintentional humor as machine learning algorithms struggle to imitate human datasets.
