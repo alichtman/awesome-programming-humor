@@ -19,12 +19,14 @@ The goal is to build a categorized, community-driven collection of high-quality 
 * [exceptions](https://github.com/kevin-cantwell/exceptions) - Exceptions for Go!
 * [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - No-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 * [git-self-blame](https://github.com/JacobEvelyn/git-self-blame) - Simple git plugin that lets you take the blame for code you didn't write.
+* [git-vanity-sha](https://github.com/mattbaker/git-vanity-sha) - Vanity hex prefixes for your commit SHAs.
 * [github-stupidity](https://github.com/james9909/github-stupidity) - Analyze the stupidity of GitHub repositories.
 * [i-made-this](https://github.com/alichtman/i-made-this) - Have you ever wanted to develop a project, but do like, none of the work? Save time with this tool!
 * [jankyscroll](https://github.com/benzweig/jankyscroll) - A Javascript scrolling plugin that doesn't need to exist.
 * [nano](https://github.com/nilsding/nano) - Mock users for trying to edit with nano.
 * [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 * [redirect-blame](https://github.com/will/redirect_blame) - It's your fault my site is down.
+* [shrinkbook](https://github.com/terkelg/shrinkbook) - Shrink facebook by 5% every 10th second.
 * [useless](https://github.com/BlitzKraft/useless) - A collection of self-killing scripts in various languages.
 * [yolo](https://github.com/Airblader/yolo) - Script to kill a random process on your machine.
 
