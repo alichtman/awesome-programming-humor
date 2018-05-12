@@ -4,17 +4,15 @@
 
 A collection of awesome software, subreddits, websites, and other cool stuff that programmers would find funny.
 
-Thanks to all (current and future) contributors, you're awesome and this wouldn't be possible without you!
-
 The goal is to build a categorized, community-driven collection of high-quality computer science/programming humor.
 
 # Contents
 
-+ [Funny GitHub Projects](#funny-github-projects)
++ [GitHub Projects](#github-projects)
 + [Subreddits](#subreddits)
 + [Websites](#websites)
 
-## Funny GitHub Projects
+## GitHub Projects
 
 * [exceptions](https://github.com/kevin-cantwell/exceptions) - Exceptions for Go!
 * [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - No-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
