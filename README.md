@@ -34,6 +34,7 @@ The goal is to build a categorized, community-driven collection of high-quality 
 ## Subreddits
 
 * [r/AssHatHackers](https://www.reddit.com/r/AssHatHackers/) - You've heard of Black Hat and White Hat Hackers, now there are Ass Hat Hackers.
+* [r/BadCode](https://www.reddit.com/r/badcode/) - A place where terrible code can be among friends.
 * [r/ButtCoin](https://www.reddit.com/r/Buttcoin/) - This is not /r/Bitcoin. This is /r/Buttcoin!
 * [r/FOSSWorldProblems](https://www.reddit.com/r/fossworldproblems/) - Subreddit for complaining about FOSS Problems.
 * [r/GoBashing](https://www.reddit.com/r/gobashing/) - A subreddit for bashing Go.
