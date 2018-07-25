@@ -58,7 +58,3 @@ The goal is to build a categorized, community-driven collection of high-quality 
 ## Websites
 
 * [aiweirdness](http://aiweirdness.com/) - Unintentional humor as machine learning algorithms struggle to imitate human datasets.
-
-## Writing
-
-* [dear-microsoft](https://github.com/dear-microsoft/dear-microsoft) - A play on [dear-github](https://www.github.com/dear-github/dear-github).
