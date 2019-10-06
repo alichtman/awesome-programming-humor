@@ -27,6 +27,7 @@ The goal is to build a categorized, community-driven collection of high-quality 
 * [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 * [nulll](https://github.com/mickael-kerjean/nulll) - Helps you to reach your target LOC.
 * [redirect-blame](https://github.com/will/redirect_blame) - It's your fault my site is down.
+* [safebook](https://bengrosser.com/projects/safebook/) - Facebook without the content.
 * [shrinkbook](https://github.com/terkelg/shrinkbook) - Shrink facebook by 5% every 10th second.
 * [useless](https://github.com/BlitzKraft/useless) - A collection of self-killing scripts in various languages.
 * [vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library.
