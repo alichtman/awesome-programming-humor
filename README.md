@@ -21,6 +21,7 @@ The goal is to build a categorized, community-driven collection of high-quality 
 * [git-self-blame](https://github.com/JacobEvelyn/git-self-blame) - Simple git plugin that lets you take the blame for code you didn't write.
 * [git-vanity-sha](https://github.com/mattbaker/git-vanity-sha) - Vanity hex prefixes for your commit SHAs.
 * [github-stupidity](https://github.com/james9909/github-stupidity) - Analyze the stupidity of GitHub repositories.
+* [gnu-pricing](https://github.com/diafygi/gnu-pricing) - Turn GNU command line tools into SaaS.
 * [i-made-this](https://github.com/alichtman/i-made-this) - Have you ever wanted to develop a project, but do like, none of the work? Save time with this tool!
 * [jankyscroll](https://github.com/benzweig/jankyscroll) - A Javascript scrolling plugin that doesn't need to exist.
 * [nano](https://github.com/nilsding/nano) - Mock users for trying to edit with nano.
