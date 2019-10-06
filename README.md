@@ -29,6 +29,7 @@ The goal is to build a categorized, community-driven collection of high-quality 
 * [shrinkbook](https://github.com/terkelg/shrinkbook) - Shrink facebook by 5% every 10th second.
 * [useless](https://github.com/BlitzKraft/useless) - A collection of self-killing scripts in various languages.
 * [vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library.
+* [Volkswagen](https://github.com/auchenberg/volkswagen) - Volkswagen detects when your tests are being run in a CI server, and makes them pass.
 * [yolo](https://github.com/Airblader/yolo) - Script to kill a random process on your machine.
 
 ## Subreddits
