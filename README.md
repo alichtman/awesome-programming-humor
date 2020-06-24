@@ -25,7 +25,6 @@ The goal is to build a categorized, community-driven collection of high-quality 
 * [hipku](https://github.com/gabemart/hipku) - Encode any IP address as a haiku.
 * [i-made-this](https://github.com/alichtman/i-made-this) - Have you ever wanted to develop a project, but do like, none of the work? Save time with this tool!
 * [jankyscroll](https://github.com/benzweig/jankyscroll) - A Javascript scrolling plugin that doesn't need to exist.
-* [nano](https://github.com/nilsding/nano) - Mock users for trying to edit with nano.
 * [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 * [nulll](https://github.com/mickael-kerjean/nulll) - Helps you to reach your target LOC.
 * [redirect-blame](https://github.com/will/redirect_blame) - It's your fault my site is down.
