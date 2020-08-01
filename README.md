@@ -63,3 +63,4 @@ The goal is to build a categorized, community-driven collection of high-quality 
 ## Websites
 
 * [aiweirdness](http://aiweirdness.com/) - Unintentional humor as machine learning algorithms struggle to imitate human datasets.
+* [Unicorn Valley](https://unicornvalley.xyz) - A platform for terrible startup ideas 
