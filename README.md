@@ -63,5 +63,10 @@ The goal is to build a categorized, community-driven collection of high-quality 
 ## Websites
 
 * [aiweirdness](http://aiweirdness.com/) - Unintentional humor as machine learning algorithms struggle to imitate human datasets.
+* [motherfuckingwebsite](https://motherfuckingwebsite.com/)
+    * [bettermotherfuckingwebsite](http://bettermotherfuckingwebsite.com/)
+    * [thebestmotherfucking](https://thebestmotherfucking.website/)
+    * [perfectmotherfuckingwebsite](https://perfectmotherfuckingwebsite.com/)
+    * [securemotherfuckingwebsite](https://securemotherfuckingwebsite.com/)
 * [shouldiblamecaching](https://shouldiblamecaching.com/) - It's not working! Should I blame caching?
 * [Unicorn Valley](https://unicornvalley.xyz) - A platform for terrible startup ideas 
