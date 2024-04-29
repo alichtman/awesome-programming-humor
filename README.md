@@ -18,6 +18,7 @@ The goal is to build a categorized, community-driven collection of high-quality 
 * [exceptions](https://github.com/kevin-cantwell/exceptions) - Exceptions for Go!
 * [exit-vim](https://github.com/cabellwg/exit-vim) - Vim plugin that exits Vim on startup.
 * [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - No-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
+* [fuckitpy](https://github.com/ajalt/fuckitpy) - FuckIt.py uses state-of-the-art technology to make sure your Python code runs whether it has any right to or not. Some code has an error? Fuck it.
 * [git-self-blame](https://github.com/JacobEvelyn/git-self-blame) - Simple git plugin that lets you take the blame for code you didn't write.
 * [git-vanity-sha](https://github.com/mattbaker/git-vanity-sha) - Vanity hex prefixes for your commit SHAs.
 * [github-stupidity](https://github.com/james9909/github-stupidity) - Analyze the stupidity of GitHub repositories.
