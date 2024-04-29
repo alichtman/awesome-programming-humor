@@ -36,7 +36,6 @@ The goal is to build a categorized, community-driven collection of high-quality 
 
 ## Subreddits
 
-* [r/AssHatHackers](https://www.reddit.com/r/AssHatHackers/) - You've heard of Black Hat and White Hat Hackers, now there are Ass Hat Hackers.
 * [r/BadCode](https://www.reddit.com/r/badcode/) - A place where terrible code can be among friends.
 * [r/ButtCoin](https://www.reddit.com/r/Buttcoin/) - This is not /r/Bitcoin. This is /r/Buttcoin!
 * [r/FOSSWorldProblems](https://www.reddit.com/r/fossworldproblems/) - Subreddit for complaining about FOSS Problems.
@@ -51,7 +50,6 @@ The goal is to build a categorized, community-driven collection of high-quality 
 * [r/ProgrammingCircleJerk](https://www.reddit.com/r/programmingcirclejerk/)
 * [r/ProgrammingHorror](https://www.reddit.com/r/programminghorror/) - This subreddit is meant for sharing funny programming related stories and strange or straight-up awful code.
 * [r/RecruitingHell](https://www.reddit.com/r/recruitinghell/) - This subreddit is for all of those recruiters and candidates who really don't get it.
-* [r/ShittyKickstarters](https://www.reddit.com/r/shittykickstarters/)
 * [r/ShittyProgramming](https://www.reddit.com/r/shittyprogramming/)
 * [r/SoftwareGore](https://www.reddit.com/r/softwaregore/) - Software gore is when software acts outside its parameters and malfunctions.
 * [r/SysadminHumor](https://www.reddit.com/r/Sysadminhumor/) - A sub for sysadmins with a sense of humor.
