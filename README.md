@@ -24,9 +24,7 @@ The goal is to build a categorized, community-driven collection of high-quality 
 * [gnu-pricing](https://github.com/diafygi/gnu-pricing) - Turn GNU command line tools into SaaS.
 * [hipku](https://github.com/gabemart/hipku) - Encode any IP address as a haiku.
 * [i-made-this](https://github.com/alichtman/i-made-this) - Have you ever wanted to develop a project, but do like, none of the work? Save time with this tool!
-* [jankyscroll](https://github.com/benzweig/jankyscroll) - A Javascript scrolling plugin that doesn't need to exist.
 * [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-* [nulll](https://github.com/mickael-kerjean/nulll) - Helps you to reach your target LOC.
 * [redirect-blame](https://github.com/will/redirect_blame) - It's your fault my site is down.
 * [regex2fat](https://github.com/8051Enthusiast/regex2fat) - Did you ever want to match a regex, but all you had was a fat32 driver?
 * [safebook](https://bengrosser.com/projects/safebook/) - Facebook without the content.
