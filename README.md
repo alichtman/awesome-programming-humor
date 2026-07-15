@@ -60,6 +60,7 @@ The goal is to build a categorized, community-driven collection of high-quality 
 ## Websites
 
 * [aiweirdness](http://aiweirdness.com/) - Unintentional humor as machine learning algorithms struggle to imitate human datasets.
+* [DevMeme](https://devme.me) - Searchable library of programming memes — type the concept ("race condition", "LGTM", "on-call") and land on the joke instead of scrolling forever.
 * [motherfuckingwebsite](https://motherfuckingwebsite.com/)
     * [bettermotherfuckingwebsite](http://bettermotherfuckingwebsite.com/)
     * [thebestmotherfucking](https://thebestmotherfucking.website/)
